@@ -1,0 +1,1 @@
+I made this game in like 30 mins cause i forgot to add the variables to the loop so they had a constant value instead, also this is a game i have made before but accidentally deleted it, enjoy :)
